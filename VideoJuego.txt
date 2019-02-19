@@ -1,0 +1,2 @@
+VideoJuegoMatriz es la clase main y esta en un package llamado videojuego matriz
+el resto son la clases y estan en un paquete llamado Matriz
